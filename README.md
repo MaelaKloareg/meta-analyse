@@ -2,6 +2,7 @@
 TD de méta-analyse pour l'ESA d'Angers
 
 Délai de reprise de cyclicité chez la vache laitière
+
 Etude bibliographique réalisée par Erwan Cutullic
 
 Le but est d'évaluer l'effet d'une augmentation du niveau de production laitière du début de lactation (moyenne sur les 100 premiers jours environ) sur le délai de reprise de cyclicité (mesuré en jours après le vêlage)
